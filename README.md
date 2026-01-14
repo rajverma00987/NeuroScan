@@ -80,5 +80,5 @@ If you’d like to improve model accuracy, UI/UX, or documentation:
 
 ## 💬 Contact
 
-Author: [Raj Verma](https://github.com/rajverma00987), [Shivanshu Gurjar](https://github.com/shivanshugurjar07-ai)
+Author: [Raj Verma](https://github.com/rajverma00987), [Shivanshu Gurjar](https://github.com/shivanshugurjar07-ai), lomika mithoriya
 For questions or collaboration, please open an issue or contact via GitHub.
