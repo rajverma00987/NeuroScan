@@ -80,4 +80,4 @@ If you’d like to improve model accuracy, UI/UX, or documentation:
 
 ## 💬 Contact
 
-Author: Raj Verma, Shivanshu Gurjar and Lomika Mithoriya For questions or collaboration, please open an issue or contact via GitHub.
+Author: Raj verma For questions or collaboration, please open an issue or contact via GitHub.
